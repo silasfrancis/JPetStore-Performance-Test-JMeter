@@ -1,0 +1,1 @@
+jmeter -n -t JPetStore_Performance_Test.jmx -l Summary-Report.jtl
